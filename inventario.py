@@ -1,4 +1,4 @@
-inventario= 10
+inventario= 10  ##ESTO ES UN COMENTARIO
  
 def vender_Producto():
         global inventario
