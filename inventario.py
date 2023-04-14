@@ -1,6 +1,6 @@
 inventario= 10  ##ESTO ES UN COMENTARIO
  
-def vender_Producto():
+def vender_Producto(): ##OTRO COMENTARIO
         global inventario
         print("ingrese la cantidad que desea vender")
         cantidad=int(input("Ingrese la cantidad: "))
